@@ -1,6 +1,6 @@
 Hey there! 👋
 
-I'm Seoyoon Kim, a third-year Computer Engineering student at Hannam University and an aspiring game developer.
+I'm Seoyun Kim, a third-year Computer Engineering student at Hannam University and an aspiring game developer.
 
 I design and build interactive worlds where code meets creativity.
 
